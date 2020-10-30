@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const DB_URL = 'mongodb+srv://user:user@cluster0.tolqg.mongodb.net/app1?retryWrites=true&w=majority';
+const DB_URL = '';
 
 const connectDB = async () =>{
     try{
